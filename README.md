@@ -15,7 +15,7 @@ If you don't have access to the Institute, please email [Chia-Hung Yang](https:/
 
 ## Agenda
 
-![Agenda](https://github.com/chiahungyang/symposium2019/blob/master/lablogo.png)
+![Agenda](https://github.com/chiahungyang/symposium2019/blob/master/testimage.png)
 
 ## Contact
 Please feel free to email [Chia-Hung Yang](https://www.networkscienceinstitute.org/people/chia-hung-yang) if you have any questions.
