@@ -15,7 +15,7 @@ If you don't have access to the Institute, please email [Chia-Hung Yang](https:/
 
 ## Agenda
 
-![alt text](lab logo.png)
+![Agenda](./lab logo.png)
 
 <table>
     <thead>
