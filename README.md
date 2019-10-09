@@ -16,13 +16,15 @@ If you don't have access to the Institute, please email [Chia-Hung Yang](https:/
 ## Agenda
 
 <table>
-  <tr>
-    <td>09:50 - 10:00</td>
-    <td colspan=2>Introduction</td>
-  </tr>
-  <tr>
-    <td colspan=3>Session 1</td>
-  </tr>
+  <tbody>
+    <tr>
+      <td>09:50 - 10:00</td>
+      <td colspan=2>Introduction</td>
+    </tr>
+    <tr>
+      <td colspan=3>Session 1</td>
+    </tr>
+  </tbody>
 </table>
 
 ## Contact
