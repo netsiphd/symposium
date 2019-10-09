@@ -15,34 +15,7 @@ If you don't have access to the Institute, please email [Chia-Hung Yang](https:/
 
 ## Agenda
 
-![Agenda](./lab logo.png)
-
-<table>
-    <thead>
-        <tr>
-            <th>Layer 1</th>
-            <th>Layer 2</th>
-            <th>Layer 3</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=4>L1 Name</td>
-            <td rowspan=2>L2 Name A</td>
-            <td>L3 Name A</td>
-        </tr>
-        <tr>
-            <td>L3 Name B</td>
-        </tr>
-        <tr>
-            <td rowspan=2>L2 Name B</td>
-            <td>L3 Name C</td>
-        </tr>
-        <tr>
-            <td>L3 Name D</td>
-        </tr>
-    </tbody>
-</table>
+![Agenda](/lab logo.png)
 
 ## Contact
 Please feel free to email [Chia-Hung Yang](https://www.networkscienceinstitute.org/people/chia-hung-yang) if you have any questions.
