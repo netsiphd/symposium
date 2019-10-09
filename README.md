@@ -8,10 +8,10 @@ The 2nd annual NSRS features:
 - **Slideshow karaoke** with dauntless presenters telling stories from a slidedeck full of surprise :smirk:
 - **Network trivia** for fun :tada:
 
-### Date and Location
+## Date and Location
 NSRS 2019 will be held on **October 25th** at the Network Science Institute, **177 Huntington Avenue, Boston**.
 
-##### If you don't have access to the Institute, please email [Chia-Hung Yang](https://www.networkscienceinstitute.org/people/chia-hung-yang) before _October 23th_ so that we can add you to the guest list.
+#### If you don't have access to the Institute, please email [Chia-Hung Yang](https://www.networkscienceinstitute.org/people/chia-hung-yang) before _October 23th_ so that we can add you to the guest list.
 
-### Contact
+## Contact
 Please feel free to email [Chia-Hung Yang](https://www.networkscienceinstitute.org/people/chia-hung-yang) if you have any questions.
