@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to NSRS 2019!
+The Network Science Research Symposium is organized and led by graduate students affiliated with the [Network Science Institute](https://www.networkscienceinstitute.org/) at Northeastern University. It creates a platform to showcase a variety of projects done by young researchers in Network Science, to receive feedback and initiate future collaborations.
 
-You can use the [editor on GitHub](https://github.com/chiahungyang/symposium2019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The 2nd annual NSRS features:
+- **Research sessions** consisting of oral presentations and short flash talks.
+- **Grant unwind** about how a grant proposal "unfoded". Attendees will hear a different kind of perspective behind all the work that goes into a grant proposal, which hopefully will lead to a discussion of how to initiate and promote an early-stage research project.
+- **Professional-life panel** where faculty members in NetSI discuss a set of miscellaneous questions about professional life in academia/network science with young researchers. This panel is part of the NetSI _professional practices seminar series_.
+- **Slideshow karaoke** with dauntless presenters telling stories from a slidedeck full of surprise :smirk:
+- **Network trivia** for fun :tada:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Date and Location
+NSRS 2019 will be held on **October 25th** at the Network Science Institute, **177 Huntington, Boston**.
 
-### Markdown
+###### If you don't have access to the Institute, please email [Chia-Hung Yang](https://www.networkscienceinstitute.org/people/chia-hung-yang) before _October 23th_ so that we can add you to the guest list.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chiahungyang/symposium2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+Please feel free to email [Chia-Hung Yang](https://www.networkscienceinstitute.org/people/chia-hung-yang) if you have any questions.
