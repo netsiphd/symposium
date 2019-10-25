@@ -3,7 +3,7 @@ The Network Science Research Symposium is organized and led by graduate students
 
 The 2nd annual NSRS features:
 - **Research sessions** consisting of oral presentations and short flash talks.
-- **Grant unwind** about how a grant proposal "unfoded". Attendees will hear a different kind of perspective behind all the work that goes into a grant proposal, which hopefully will lead to a discussion of how to initiate and promote an early-stage research project.
+- **Grant unwind** about how a grant proposal "unfolded". Attendees will hear a different kind of perspective behind all the work that goes into a grant proposal, which hopefully will lead to a discussion of how to initiate and promote an early-stage research project.
 - **Professional-life panel** where faculty members in NetSI discuss a set of miscellaneous questions about professional life in academia/network science with young researchers. This panel is part of the NetSI _professional practices seminar series_.
 - **Slideshow karaoke** with dauntless presenters telling stories from a slidedeck full of surprise :smirk:
 - **Network trivia** for fun :tada:
